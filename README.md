@@ -7,3 +7,5 @@ I want my project to have some strict criteria:
 3. The cost of the drone is as low as possible.
 
 These criteria are the baseline, in future versions I want to add the ability to take the carbon rod out to make transport easier.
+
+As part of this project I also decided to make my own custom flightcontroller which will decrease the cost for anyone wanting to build my project.
